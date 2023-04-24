@@ -221,7 +221,7 @@ final class ScanCommand extends Command
             return self::ERROR_EXCEPTION;
         }
 
-    $out->writeln('Done');
+        $out->writeln('Done');
 
         return self::ERROR_SUCCESS;
     }
