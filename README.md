@@ -13,6 +13,7 @@
 bin/console scan
 
 ### Description
+
 Performs a scrape of all movied from https://www.kinopoisk.ru/lists/movies/top250/
 Saves their rating data
 Can be run as a cron job
